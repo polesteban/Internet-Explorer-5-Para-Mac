@@ -1,4 +1,4 @@
-# Internet-Explorer-5-Para-Mac
+# Internet Explorer 5 Para Mac
 
 Creado especídficamente para Mac, durante un tiempo la IE utilizaba el software de Macintosh.
 Tantek Çelik y su equipo lanzaron la IE 5 para Mac.
